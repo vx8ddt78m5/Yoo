@@ -32,7 +32,6 @@
 | 充值           | 确保账户有足够的资金来完成订阅     |
 | 订阅           | 正式成为 ChatGPT Plus 用户，享受其带来的各种优势 |
 
-关于 ChatGPT Plus 的充值问题，如果遇到充值失败的情况，可以点击 [ChatGPT Plus 充值失败解决攻略](https://bit.ly/Fomepay-Card) 查看解决办法。
 
 ## 如何选择 ChatGPT Plus
 
@@ -45,7 +44,7 @@
 
 ### 选择 Plus 账户计划
 1. 进入官网后，找到并点击“Upgrade to Plus”。
-2. 接着要了解不同计划的区别，比如 [ChatGPT Plus 与其他版本的区别一览](https://bit.ly/Fomepay-Card)，以便根据自身需求做出合适的选择。
+2. 接着要了解不同计划的区别，比如 ChatGPT Plus 与其他版本的区别一览，以便根据自身需求做出合适的选择。
 3. 根据个人实际情况，如使用频率、功能需求等，来确定选择哪种 Plus 账户计划。
 
 ### 绑定信用卡
@@ -64,7 +63,7 @@
   1. Depay 信用卡的使用方法。
   2. 填写信用卡信息和账单地址的要点。
 
-关于 ChatGPT Plus API 的购买方式，可以点击 [ChatGPT Plus API 购买指南大全](https://bit.ly/Fomepay-Card) 进行查看。
+关于 ChatGPT Plus API 的购买方式，可以点击ChatGPT Plus API 购买指南大全 进行查看。
 
 ## ChatGPT Plus 的优势
 
